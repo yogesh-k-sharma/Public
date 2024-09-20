@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "base-s-pfx-client-side-solution",
+    "id": "fcf3f1c7-658f-43b7-9d67-e2d927cde9c2",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/base-s-pfx.sppkg"
+  }
+}
